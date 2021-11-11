@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tobias Scheuer!
 
-#### A Mechanical Engineering student (Bachelors soon done, YAY) with an interest in automation, robotics, mechatronics, and everything related. 
+#### A student of Mechatronics and Robotics at TUM (B.Sc. MechEng) with an interest in automation, robotics, mechatronics, and everything related. 
 
 ---
 ### Toolbox 🧰
