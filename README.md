@@ -10,6 +10,10 @@
 ---
 ### Projects
 
+#### Theses
+- [Bachelors Thesis Repo](https://github.com/TobiasScheuer/agents) Combining Digital Twins and Multi-Agent-Systems  
+    *Spin-off paper*: [An approach for leveraging Digital Twins in agent-based production systems](https://www.degruyter.com/document/doi/10.1515/auto-2021-0081/html)
+
 #### Working for TUM Institute of Automation and Information Systems
 - [Project DAVID](https://github.com/DAVID-Digital-Twin)
 
