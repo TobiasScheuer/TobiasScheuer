@@ -7,6 +7,16 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab Logo" width="50" height="50"/> 
 
+---
+### Projects
+
+#### Working for TUM Institute of Automation and Information Systems
+-link to DAVID here-
+
+#### Private
+FirstSimulations -link here-
+FactorySim -link here-
+xy -link here-
 
 ---
 
