@@ -11,12 +11,12 @@
 ### Projects
 
 #### Working for TUM Institute of Automation and Information Systems
--link to DAVID here-
+- -link to DAVID here-
 
 #### Private
-FirstSimulations -link here-
-FactorySim -link here-
-xy -link here-
+- FirstSimulations -link here-
+- FactorySim -link here-
+- xy -link here-
 
 ---
 
