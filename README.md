@@ -11,12 +11,12 @@
 ### Projects
 
 #### Working for TUM Institute of Automation and Information Systems
-- https://github.com/DAVID-Digital-Twin
+- [Project DAVID](https://github.com/DAVID-Digital-Twin)
 
 #### Private
-- FactorySim https://github.com/TobiasScheuer/FactorySim 2D Factory simulation based on PyGame
-- FirstSimulations https://github.com/TobiasScheuer/PyGame-first-Simulations Several PyGame based simulations
-- NoTopicYet TowerDefense https://github.com/TobiasScheuer/noTopic-Tower-Defense Start of a 2D PyGame based TowerDefense game
+- [FactorySim](https://github.com/TobiasScheuer/FactorySim) 2D Factory simulation based on PyGame
+- [FirstSimulations](https://github.com/TobiasScheuer/PyGame-first-Simulations) Several PyGame based simulations
+- [NoTopicYet TowerDefense](https://github.com/TobiasScheuer/noTopic-Tower-Defense) Start of a 2D PyGame based TowerDefense game
 
 ---
 
