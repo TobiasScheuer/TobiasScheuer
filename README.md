@@ -14,9 +14,9 @@
 - [Project DAVID](https://github.com/DAVID-Digital-Twin)
 
 #### Private
-- [FactorySim](https://github.com/TobiasScheuer/FactorySim) 2D Factory simulation based on PyGame
+- [FactorySim](https://github.com/TobiasScheuer/FactorySim) 2D Factory simulation based on PyGame (base done, more machines etc. to be added)
 - [FirstSimulations](https://github.com/TobiasScheuer/PyGame-first-Simulations) Several PyGame based simulations
-- [NoTopicYet TowerDefense](https://github.com/TobiasScheuer/noTopic-Tower-Defense) Start of a 2D PyGame based TowerDefense game
+- [NoTopicYet TowerDefense](https://github.com/TobiasScheuer/noTopic-Tower-Defense) Start of a 2D PyGame based TowerDefense game (WIP)
 
 ---
 
