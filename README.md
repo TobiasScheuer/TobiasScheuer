@@ -20,6 +20,7 @@
 
 #### Private Projects
 - [FactorySim](https://github.com/TobiasScheuer/FactorySim) 2D Factory simulation based on PyGame (base done, more machines etc. to be added)
+- [RescuePetSwiper](https://github.com/TobiasScheuer/RescuePetSwiper) Tinder Style App to find a fitting rescue pet. Pets found by Webscraping (WIP)
 - [FirstSimulations](https://github.com/TobiasScheuer/PyGame-first-Simulations) Several PyGame based simulations
 - [NoTopicYet TowerDefense](https://github.com/TobiasScheuer/noTopic-Tower-Defense) Start of a 2D PyGame based TowerDefense game (WIP)
 
