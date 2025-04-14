@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tobias Scheuer!
 
-#### A master student of Mechatronics and Robotics at TUM  with an interest in automation, intralogistics, simulations, robotics, mechatronics, and everything related. 
+#### I graduated at TUM with a M.Sc. in Mechatronics and Robotics. I'm intered in automation, intralogistics, simulations, robotics, mechatronics, and everything related. 
+#### Right now I work as a project manager and software developer at BitCtrl Systems GmbH
 
 ---
 ### Toolbox 🧰
@@ -10,7 +11,12 @@
 ---
 ### Projects
 
+#### ABSOLUT 2
+- [Project Homepage](https://absolut-projekt.de/absolut-2)
+
 #### Theses
+- In my Masters thesis I planned and developed a protoype app to configure car seats for Grammer AG [repository private]
+- In my semester thesis I planned and developed a protoype app for the fire brigade for Wacker Chemie AG [repository private]
 - [Bachelors Thesis Repo](https://github.com/TobiasScheuer/agents) Combining Digital Twins and Multi-Agent-Systems [repository private]
 
     *Spin-off paper*: [An approach for leveraging Digital Twins in agent-based production systems](https://www.degruyter.com/document/doi/10.1515/auto-2021-0081/html)
